@@ -1,4 +1,4 @@
-FROM thedrhax/android-sdk:latest
+FROM sakrut/android-sdk:11.0-6.7LF
 
 MAINTAINER Dmitry Karikh <the.dr.hax@gmail.com>
 
